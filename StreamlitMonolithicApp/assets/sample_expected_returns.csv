@@ -1,0 +1,6 @@
+asset,exp_return,vol
+Equities,0.07,0.15
+Bonds,0.03,0.05
+REITs,0.06,0.12
+Gold,0.02,0.1
+Cash,0.01,0.01
